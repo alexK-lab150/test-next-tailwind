@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Logs
+*.log
+
+.vscode/
+.idea/
+
+prisma/migrations/
+dist/
+build/
